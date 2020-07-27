@@ -3,8 +3,7 @@
 
 Installation Step :
 
-1) git clone https://github.com/Saifkhandvl/
-
+1) git clone https://github.com/Saifkhandvl/Saifbanner
 
 2) cd Termux-Banner
 
